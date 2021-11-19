@@ -1,0 +1,10 @@
+{
+    "name": "Energy Web Chain",
+    "symbol": "EWT",
+    "type": "coin",
+    "decimals": 18,
+    "description": "-",
+    "website": "www.energyweb.org",
+    "explorer": "https://explorer.energyweb.org/",
+    "status": "active"
+}
